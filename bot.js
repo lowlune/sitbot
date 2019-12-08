@@ -14,9 +14,9 @@ client.on('ready', () => {
 
 client.on('message', message => {
 
-    if (message.content === 'ping') {
+    if (message.content === 'peter') {
 
-       message.reply('pong');
+       message.reply('CENSORED CONTENT KGB IS COMING');
 
        }
 
