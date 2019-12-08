@@ -16,7 +16,6 @@ client.on('message', message => {
 
     if (message.content === 'peter') {
      
-       msg.channel.bulkDelete(2);
        message.reply('CENSORED CONTENT KGB IS COMING');
 
        }
